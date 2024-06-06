@@ -3,34 +3,23 @@ Project Description
 
 The goal of this project is to build a machine learning model that can accurately predict whether a bank loan application will be approved or not. The project involves data preprocessing, feature engineering, model selection, training, evaluation, and deployment.
 
-Features
-Data preprocessing and cleaning
-
-Feature engineering and selection
-
-Model training and hyperparameter tuning
-
-Model evaluation and performance metrics
-
-Deployment-ready code for prediction
-
 Installation
 Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/bank-loan-detector.git
-cd bank-loan-detector
+git clone https://github.com/Ibdam/bank_loan_detector.git
+cd bank_loan_detector
 Create and activate a virtual environment:
 
-bash
-Copy code
+Using bash and copy the code
+
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
 Install the required dependencies:
 
-bash
-Copy code
+Using bash and copy the code
 pip install -r requirements.txt
 Usage
 Data Preparation:
@@ -38,24 +27,20 @@ Data Preparation:
 Place the dataset in the data/ directory. Ensure it is named loan_data.csv or update the script with the correct filename.
 Data Preprocessing:
 
-bash
-Copy code
+Using bash and copy the code
 python preprocess_data.py
 Model Training:
 
-bash
-Copy code
+Using bash and copy the code
 python train_model.py
 Model Evaluation:
 
-bash
-Copy code
+Using bash and copy the code
 python evaluate_model.py
 Prediction:
 Use the trained model to make predictions on new data:
 
-bash
-Copy code
+Using bash and copy the code
 python predict.py --input new_loan_data.csv --output predictions.csv
 Model Training
 The model training script (train_model.py) handles the following tasks:
@@ -80,14 +65,8 @@ Contributions are welcome! Please follow these steps to contribute:
 Fork the repository
 Create a new branch (git checkout -b feature-branch)
 Make your changes and commit them (git commit -m 'Add new feature')
-Push to the branch (git push origin feature-branch)
-Create a pull request
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
-For questions or comments, please contact:
-
-Your Name: your.email@example.com
-GitHub: yourusername
+Your Name: Olowomojuore Damilola Ibrahim
+Email: olowomojuoredamilola@gmail.com
+GitHub: Ibdam
 Thank you for using the Bank Loan Detector! We hope it helps you build robust loan approval prediction models.
