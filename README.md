@@ -1,18 +1,19 @@
 # bank_loan_detector
-Most banks always face the challenges of loaning money to their customers without paying back or having issue with their paying method.
-The loan detector model helps banks authority to predict if their customers will able to pay back the loaning amount or not.
-All the datasets in this project were collected from the direct source and treated properly by removing all the anomalies for better prediction accuracy.
-The software was created base on the past experience gotten from various banks and the software will act base on the input of the of the customers
-
 Project Description
+
 The goal of this project is to build a machine learning model that can accurately predict whether a bank loan application will be approved or not. The project involves data preprocessing, feature engineering, model selection, training, evaluation, and deployment.
 
 Features
 Data preprocessing and cleaning
+
 Feature engineering and selection
+
 Model training and hyperparameter tuning
+
 Model evaluation and performance metrics
+
 Deployment-ready code for prediction
+
 Installation
 Clone the repository:
 
