@@ -1,4 +1,4 @@
-# bank_loan_detector
+# bank_loan_detector_model
 Project Description
 
 The goal of this project is to build a machine learning model that can accurately predict whether a bank loan application will be approved or not. The project involves data preprocessing, feature engineering, model selection, training, evaluation, and deployment.
