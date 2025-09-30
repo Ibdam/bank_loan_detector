@@ -3,7 +3,7 @@
 📌 Project Overview
 This project is a machine learning model that predicts whether a loan application will be approved or rejected based on applicant and loan-related information.
 The dataset includes important financial and demographic features such as dependents, education, income, loan details, and asset value.
-The main goal is to demonstrate end-to-end data science skills — from data cleaning, EDA, preprocessing, feature engineering, modeling, evaluation, and deployment preparation.
+The main goal is to demonstrate end-to-end data science skills from data cleaning, EDA, preprocessing, feature engineering, modeling, evaluation, and deployment preparation.
 
 🚀 Features of the Project:
 ✅ Data Cleaning & Preprocessing (handling missing values, encoding categorical variables, scaling numeric features)
